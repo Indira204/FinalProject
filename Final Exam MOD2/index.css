@@ -1,0 +1,35 @@
+body {
+ background-color: #6cad5f;
+}
+
+h1, h4 {
+ color: white;
+ text-align: center;
+}
+table {
+    background-color: #bbe3b3;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+}
+
+td, th {
+    border: 1px solid;
+}
+
+
+img {
+
+    padding: 10px;
+    border: 1px solid black;
+    border: 3px solid blue;
+    display: block;
+    width: 200px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
